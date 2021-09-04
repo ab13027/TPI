@@ -1,0 +1,6 @@
+/* ejemplo2.css   AB13027  */
+pais {background-color:gray;}
+departamento {background-color:black; display:block;}
+cabecera {color:white; display:inline;}  
+habitantes{color:yellow; display:inline;}
+altura {color:orange;font-size:1cm; display:inline;}
