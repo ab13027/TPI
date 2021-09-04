@@ -1,9 +1,0 @@
-/* ejemplo1a.css   AB13027  */
-fichero {background-color:midnightblue;}
-ficha {background-color:navajowhite; display:block;}
-nombre {color:white; display:inline;} 
-apellido {color:lightgreen; display:inline;}
-direccion {color:lightcoral;font-size:1cm; display:none;}
-correo{color:orange; display: inline;}
-telefono{color:lightblue; display: inline;}
-url{color:lightslategray;display: inline;}
